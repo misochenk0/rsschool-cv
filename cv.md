@@ -9,7 +9,7 @@
 +375(44)596-55-89
 
 *LinkedIn:*
-https://www.linkedin.com/in/alexandr-misochenko-21743a170
+<https://www.linkedin.com/in/alexandr-misochenko-21743a170>
 ---
 ## Образование
 * **2017-2021** Институт бизнеса БГУ, Логистик-Экономист
