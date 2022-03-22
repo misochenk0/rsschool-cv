@@ -14,3 +14,16 @@ https://www.linkedin.com/in/alexandr-misochenko-21743a170
 	* Курсы по HTML и CSS (препроцессор Scss)
 	* Курсы по JavaScript и React
 
+---
+## Опыт работы
+
+* **06.2021-** ООО "Веб-Кибернетика", Frontend Developer
+	* Разработка сайтов с использованием
+		* HTML (Pug), 
+		* CSS (Scss), 
+		* JavaScript,
+		* Gulp
+	* Доработка действующих проектов и добавление нового функционала с использованием таких технологий как:
+		* Vue
+		* React
+		* Jquery
