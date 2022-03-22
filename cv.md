@@ -1,4 +1,4 @@
-# Мисоченко Александр Сергеевич
+# Misochenko Alexander
 
 *Frontend developer*
 
